@@ -5,6 +5,13 @@ Bem vindo ao meu Curriculum Vitae Online!
 Aqui você encontra um projeto completo com informações e referências. Foi utilizado conceitos de html, CSS, Git e Github Pages. 
 O Curriculum Vitae está disponível para ser acessado online no link: https://tiagosfneves.github.io/cvDevFrontEnd/
 
+## Conteúdo do Repostório
+ - README;
+ - Arquivos: HTML, CSS;
+ - Pasta com as Imagens usadas no projeto;
+
+ <hr>
+
 **Fork do projeto:** 
 
 https://github.com/digitalinnovationone/cv
@@ -12,6 +19,8 @@ https://github.com/digitalinnovationone/cv
 **Referências:**
 
 W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
+
+<hr>
 
 ### 📑 CONCEITOS UTILIZADOS
 
