@@ -1,0 +1,62 @@
+html,body,h1,h2,h3,h4,h5,h6 {
+  font-family: "Roboto", sans-serif
+}
+
+body {
+  background-image: url("../img/setup.jpg");
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: auto;  
+}
+
+.my-mail a,
+.my-phoneNumber a,
+.my-certifications a,
+.my-projets a,
+.my-agradecimentos a {
+  text-decoration: none;
+  color: #2196f3;
+}
+
+.my-mail a:hover,
+.my-phoneNumber a:hover,
+.my-certifications a:hover,
+.my-projets a:hover,
+.my-agradecimentos a:hover {
+  color: #2196f3;
+  opacity: .8;
+}
+
+.my-redes {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.my-redes__titulo,
+.my-redes__icon {
+  padding: 0 0 0 .35rem;
+}
+
+.w3-white {
+  border-radius: 1rem;
+  box-shadow: 0 10px 30px 0 #21ecf3b5, 0 10px 30px 0 #21ecf3b5;
+  opacity: .85;
+}
+
+.w3-card p, ul {
+  text-align: justify;
+  padding: 0 2rem 2rem;
+  list-style: none;
+}
+
+.w3-tag {
+  border-radius: 1rem;
+}
+
+@media only screen and (max-width: 767px) {
+  body {
+    background-image: url("../img/setup.jpg");
+  }
+}
