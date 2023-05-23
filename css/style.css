@@ -39,6 +39,10 @@ body {
   padding: 0 0 0 .35rem;
 }
 
+.my-redes__icon a {
+  padding: 0 .35rem;
+}
+
 .w3-white {
   border-radius: 1rem;
   box-shadow: 0 10px 30px 0 #21ecf3b5, 0 10px 30px 0 #21ecf3b5;
