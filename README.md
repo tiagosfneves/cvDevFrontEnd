@@ -2,6 +2,8 @@
 
 Bem vindo ao meu Curriculum Vitae Online!
 
+![Visão da Página inicial](./assets/img/visaoPaginaInicialCV.png)
+
 Aqui você encontra um projeto completo com informações e referências. Foi utilizado conceitos de html, CSS, Git e Github Pages. 
 O Curriculum Vitae está disponível para ser acessado online no link: https://tiagosfneves.github.io/cvDevFrontEnd/
 
