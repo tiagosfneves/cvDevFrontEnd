@@ -1,30 +1,54 @@
-﻿# Curriculum Vitae Online - Tiago S F Neves
+﻿# Curriculum Vitae Online
 
-Bem vindo ao meu Curriculum Vitae Online!
+Aqui você encontra um projeto completo com informações e referências para desenvolver um CV Online. 
 
-![Visão da Página inicial](./assets/img/visaoPaginaInicialCV.png)
+## Layout Final do Projeto
 
-Aqui você encontra um projeto completo com informações e referências. Foi utilizado conceitos de html, CSS, Git e Github Pages. 
-O Curriculum Vitae está disponível para ser acessado online no link: https://tiagosfneves.github.io/cvDevFrontEnd/
+![Visão da Página inicial](./assets/img/layoutFinal.png)
+
+ ## Vídeo de Apresentação e Link de Acesso ao Projeto
+
+- Você pode acessar o projeto [aqui](https://tiagosfneves.github.io/cvDevFrontEnd/).
+
+- Assista a um vídeo de apresentação do projeto no LinkedIn [aqui](https://www.linkedin.com/in/tiagosfneves/details/featured/).
+
+## Funcionalidades Principais
+
+- Fácil Compartilhamento e Atualização.
+- Dados Analíticos, sobre visitas ao curriculum e os links externos.
+- Idiomas e Traduções fáceis com o uso do Google tradutor na página.
+
+## Tecnologias Usadas
+Foi utilizado as seguintes tecnologias HTML, HTTP Server, CSS, W3.CSS, Git, Github e Github Pages.
+
+- HTML5
+- HTTP Server
+- CSS3
+- W3.CSS
+- JavaScript
+- Git
+- Github e Github Pages
+
+## Instalação
+
+Para começar a usar este projeto, siga os passos abaixo:
+
+1. Clone o repositório para o seu computador local usando o seguinte comando no seu terminal:
+
+- `git clone https://github.com/tiagosfneves/cvDevFrontEnd.git`
+
+2. Ou se preferir pode baixar o zip:
+- Clique no botão `CODE` no cabeçalho desta página
+- Deposi clique em `Download ZIP`
+
 
 ## Conteúdo do Repostório
  - README;
  - Arquivos: HTML, CSS;
  - Pasta com as Imagens usadas no projeto;
 
- <hr>
 
-**Fork do projeto:** 
-
-https://github.com/digitalinnovationone/cv
-
-**Referências:**
-
-W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
-
-<hr>
-
-### 📑 CONCEITOS UTILIZADOS
+## 📑 CONCEITOS UTILIZADOS
 
 ### 🔴 HTML:
 
@@ -100,7 +124,7 @@ Outros conceitos CSS:
 - Responsividade: é a capacidade de um site ou aplicativo da web de se adaptar a diferentes tamanhos de tela e dispositivos, proporcionando uma experiência de usuário consistente em todos eles. No exemplo, a classe .w3-twothird é usada para definir a largura de um elemento em dois terços do contêiner pai, tornando-o responsivo em telas de diferentes tamanhos.
 
 
-### 📚 DICIONÁRIO FRONTEND
+## 📚 DICIONÁRIO FRONTEND
 
 🔴 HTML:
 
@@ -141,3 +165,73 @@ Sobre html: https://developer.mozilla.org/pt-BR/docs/Web/HTML
 
 Emojis: https://www.w3schools.com/charsets/ref_emoji.asp
 
+ <hr>
+
+**Fork do projeto:** 
+
+https://github.com/digitalinnovationone/cv
+
+**Referências:**
+
+W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
+
+<hr>
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma [issue](https://github.com/tiagosfneves/cvDevFrontEnd/issues) ou enviar um [pull request](https://github.com/tiagosfneves/cvDevFrontEnd/pulls) para melhorar este projeto.
+
+## Contato com Autor
+
+Tiago Neves |  Desevolvedor Full Stack
+- [GitHub](https://bit.ly/Gh_tiagosfneves) 
+- [LinkedIn](https://bit.ly/In_tiagosfneves)
+
+---
+Este Projeto teve início em 2023 no curso de Front End no [DIO - Araraquara/SP](https://www.dio.me/).
+
+## Controle de Versões
+
+`Clique na versão para ver os detalhes e links!`
+
+<details>
+<summary><b>Versão 1.0.0 (21-05-2023) ...Criação do Projeto</b></summary>
+
+### `Criação do Projeto`
+
+CSS
+- Atualização Estilo W3.CSS
+    • Inclusão background (imagem)
+    • Cantos arredondados nos cards
+    • Shadow aplicado aos cards
+    • Mudança de cor (verde para azul)
+    • Torca de icones
+
+HTML
+- Reestruturação de tags
+- Alteração de dados e informações do CV
+- Inclusão de campos: Projetos e 
+
+README
+- Edição de texto
+- Inclusão de Layout do CV
+
+[Detalhes adicionais](https://github.com/tiagosfneves/cvDevFrontEnd/commit/f5376b2bb9041b01babf34081e3248e08d64c728)
+
+</details>
+
+<details>
+<summary><b>Versão 1.1.0 (02-10-2023) ...Atualização</b></summary>
+
+### `Refatoração, Boas Práticas, HTML Semântico e UI/UX`
+
+Features:
+- Inclusão de Favicon.
+- Atualização de dados do CV: Cursos, Experiências...
+- Atualização de links, telefone, email...
+- Tipo de Classificação para Skills e Idiomas.
+- Atualização de README, HTML, CSS.
+
+[Detalhes adicionais](https://github.com/tiagosfneves/cvDevFrontEnd/pull/1)
+
+</details>

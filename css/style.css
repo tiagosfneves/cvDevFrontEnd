@@ -3,7 +3,7 @@ html,body,h1,h2,h3,h4,h5,h6 {
 }
 
 body {
-  background-image: url("../img/setup.jpg");
+  background-image: url("../assets/img/setup.jpg");
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -58,9 +58,9 @@ body {
 .w3-tag {
   border-radius: 1rem;
 }
-
+/* Responsividade */
 @media only screen and (max-width: 767px) {
   body {
-    background-image: url("../img/setup.jpg");
+    background-image: url("../assets/img/setup.jpg");
   }
 }
