@@ -8,7 +8,7 @@ Aqui você encontra um projeto completo com informações e referências para de
 
  ## Vídeo de Apresentação e Link de Acesso ao Projeto
 
-- Você pode acessar o projeto [aqui](https://tiagosfneves.github.io/cvDevFrontEnd/).
+- Você pode acessar o projeto [aqui](https://tiagosfneves.github.io/curriculumvitaeDevFrontEnd/).
 
 - Assista a um vídeo de apresentação do projeto no LinkedIn [aqui](https://www.linkedin.com/in/tiagosfneves/details/featured/).
 
